@@ -170,7 +170,7 @@ section { display: flex; }
 
 .full-banner-sidebar {
     flex: 0 0 41.666667%;
-    background: #364147;
+    background-color: #364147;
     text-transform: uppercase;
     padding: 30px;
     color: #ffffff;
@@ -186,7 +186,7 @@ section { display: flex; }
     content: "";
     width: 100px;
     height: 1px;
-    background: #faa541;
+    background-color: #faa541;
     margin: 20px auto;
     display: block;
 }
@@ -201,7 +201,7 @@ section { display: flex; }
 
 footer {
     display: flex;
-    background: #000000;
+    background-color: #000000;
     position: relative;
     z-index: 0;
     min-height: 330px;
